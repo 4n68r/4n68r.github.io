@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on 4n68r</title>
+    <link>https://4n68r.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on 4n68r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>This work is licensed under a Creative Commons Attribution 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 18 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://4n68r.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Updated website</title>
+      <link>https://4n68r.github.io/blog/updated-website/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://4n68r.github.io/blog/updated-website/</guid>
+      <description>&lt;p&gt;Welcome to the new &lt;strong&gt;4n68r.com&lt;/strong&gt;! A lot of DFIR folks have been taking on the &lt;a href=&#34;https://zeltser.com/2010-retrospective-on-my-security-blog/&#34;&gt;Zeltser
+Challenge&lt;/a&gt; lately, no doubt
+spurred on by recent attendance of the DFIR &lt;del&gt;Zoo&lt;/del&gt; Summit in Austin, TX. Back in
+June 2016, I even switched my blog platform following the DFIR Summit and started blogging
+over &lt;a href=&#34;https://medium.com/@4n68r/&#34;&gt;at Medium&lt;/a&gt;. Back then, &lt;a href=&#34;https://medium.com/@4n68r/2016-dfir-summit-d3bf51a94974&#34;&gt;I wrote&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The mobile panel encouraged folks in the #DFIR community to blog more, and while I have a blog, I don’t post much on it because I get bogged down in the technical details. I recently moved away from WordPress due to security concerns and set up a static site via GitHub Pages, but I miss the features of a CMS. Granted, there’s Jekyll, but I hate Ruby and then I have to generate static pages and push them up to GitHub. I’m looking for an “easy button” for blogging (but &lt;em&gt;not&lt;/em&gt; for forensics!).&lt;/p&gt;
+
+&lt;p&gt;This is my first post on Medium, so we’ll see how this goes. My main concerns so far will be posting code and having the freedom to inject HTML when I wish to do so. Those limitations may cause me to leave Medium, but I want to give it a shot first and see how it goes. So far, it’s definitely easy.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Medium served me alright for a couple of years, but I enjoy&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the freedom of having my own domain and complete control over my content,&lt;/li&gt;
+&lt;li&gt;having a static site for security purposes,&lt;/li&gt;
+&lt;li&gt;being able to compose primarily in Markdown (but able to inject HTML whenever I want to), and&lt;/li&gt;
+&lt;li&gt;simplicity.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It looks like I can finally have a static site generator that affords me all of the above
+thanks to &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. It lets me do what I want and makes it easy to do
+so. I&amp;rsquo;m also deploying this via GitHub Pages, so that simplifies hosting as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I&amp;rsquo;m &lt;em&gt;not&lt;/em&gt; going to be taking on the Zeltser challenge&lt;/strong&gt;&amp;mdash;I have far too much going
+on in life. But I &lt;em&gt;am&lt;/em&gt; going to continue sharing with the DFIR community through
+&lt;a href=&#34;https://4n68r.github.io/speaking/&#34;&gt;speaking/teaching&lt;/a&gt;, &lt;a href=&#34;https://4n68r.github.io/projects/&#34;&gt;sharing code&lt;/a&gt;, and
+documenting things I learn along the way: whether through &lt;a href=&#34;https://4n68r.github.io/blog/&#34;&gt;blogging&lt;/a&gt; or
+via &lt;a href=&#34;https://github.com/danzek/annotationis&#34;&gt;my &lt;em&gt;annotationis&lt;/em&gt; repo&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

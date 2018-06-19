@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 4n68r</title>
+    <link>https://4n68r.github.io/categories/</link>
+    <description>Recent content in Categories on 4n68r</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>This work is licensed under a Creative Commons Attribution 4.0 International License.</copyright>
+    
+        <atom:link href="https://4n68r.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Humor</title>
+      <link>https://4n68r.github.io/categories/humor/</link>
+      <pubDate>Sat, 25 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://4n68r.github.io/categories/humor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Musings</title>
+      <link>https://4n68r.github.io/categories/musings/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://4n68r.github.io/categories/musings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://4n68r.github.io/categories/projects/</link>
+      <pubDate>Sun, 17 Jun 2018 16:55:05 -0500</pubDate>
+      
+      <guid>https://4n68r.github.io/categories/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://4n68r.github.io/categories/research/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://4n68r.github.io/categories/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaking</title>
+      <link>https://4n68r.github.io/categories/speaking/</link>
+      <pubDate>Sun, 17 Jun 2018 15:55:05 -0500</pubDate>
+      
+      <guid>https://4n68r.github.io/categories/speaking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
