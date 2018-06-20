@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogging on 4n68r</title>
-    <link>https://4n68r.github.io/tags/blogging/</link>
+    <link>https://4n68r.com/tags/blogging/</link>
     <description>Recent content in Blogging on 4n68r</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>This work is licensed under a Creative Commons Attribution 4.0 International License.</copyright>
     <lastBuildDate>Mon, 18 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://4n68r.github.io/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://4n68r.com/tags/blogging/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Updated website</title>
-      <link>https://4n68r.github.io/blog/updated-website/</link>
+      <link>https://4n68r.com/blog/updated-website/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://4n68r.github.io/blog/updated-website/</guid>
+      <guid>https://4n68r.com/blog/updated-website/</guid>
       <description>&lt;p&gt;Welcome to the new &lt;strong&gt;4n68r.com&lt;/strong&gt;! A lot of DFIR folks have been taking on the &lt;a href=&#34;https://zeltser.com/2010-retrospective-on-my-security-blog/&#34;&gt;Zeltser
 Challenge&lt;/a&gt; lately, no doubt
 spurred on by recent attendance of the DFIR &lt;del&gt;Zoo&lt;/del&gt; Summit in Austin, TX. Back in
@@ -45,8 +45,8 @@ so. I&amp;rsquo;m also deploying this via GitHub Pages, so that simplifies hosti
 
 &lt;p&gt;&lt;strong&gt;I&amp;rsquo;m &lt;em&gt;not&lt;/em&gt; going to be taking on the Zeltser challenge&lt;/strong&gt;&amp;mdash;I have far too much going
 on in life. But I &lt;em&gt;am&lt;/em&gt; going to continue sharing with the DFIR community through
-&lt;a href=&#34;https://4n68r.github.io/speaking/&#34;&gt;speaking/teaching&lt;/a&gt;, &lt;a href=&#34;https://4n68r.github.io/projects/&#34;&gt;sharing code&lt;/a&gt;, and
-documenting things I learn along the way: whether through &lt;a href=&#34;https://4n68r.github.io/blog/&#34;&gt;blogging&lt;/a&gt; or
+&lt;a href=&#34;https://4n68r.com/speaking/&#34;&gt;speaking/teaching&lt;/a&gt;, &lt;a href=&#34;https://4n68r.com/projects/&#34;&gt;sharing code&lt;/a&gt;, and
+documenting things I learn along the way: whether through &lt;a href=&#34;https://4n68r.com/blog/&#34;&gt;blogging&lt;/a&gt; or
 via &lt;a href=&#34;https://github.com/danzek/annotationis&#34;&gt;my &lt;em&gt;annotationis&lt;/em&gt; repo&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
