@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://4n68r.com/blog/updated-website/</loc>
-    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://4n68r.com/projects/</loc>
     <lastmod>2018-06-17T16:55:05-05:00</lastmod>
   </url>
@@ -18,77 +13,13 @@
   </url>
   
   <url>
-    <loc>https://4n68r.com/blog/big-ram-and-the-kernel-debugger-data-block/</loc>
-    <lastmod>2017-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://4n68r.com/blog/learning-something-new/</loc>
-    <lastmod>2016-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://4n68r.com/</loc>
-    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://4n68r.com/tags/blogging/</loc>
-    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://4n68r.com/blog/</loc>
-    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-17T16:55:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://4n68r.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://4n68r.com/tags/comic/</loc>
-    <lastmod>2016-06-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://4n68r.com/tags/hugo/</loc>
-    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://4n68r.com/categories/humor/</loc>
-    <lastmod>2016-06-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://4n68r.com/tags/learning/</loc>
-    <lastmod>2016-06-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://4n68r.com/tags/memory/</loc>
-    <lastmod>2017-04-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://4n68r.com/categories/musings/</loc>
-    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://4n68r.com/tags/prerequisites/</loc>
-    <lastmod>2016-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -105,18 +36,6 @@
   </url>
   
   <url>
-    <loc>https://4n68r.com/tags/rekall/</loc>
-    <lastmod>2017-04-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://4n68r.com/categories/research/</loc>
-    <lastmod>2017-04-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://4n68r.com/tags/speaking/</loc>
     <lastmod>2018-06-17T15:55:05-05:00</lastmod>
     <priority>0</priority>
@@ -129,26 +48,8 @@
   </url>
   
   <url>
-    <loc>https://4n68r.com/tags/static-site/</loc>
-    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://4n68r.com/tags/</loc>
-    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://4n68r.com/tags/volatility/</loc>
-    <lastmod>2017-04-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://4n68r.com/tags/writing/</loc>
-    <lastmod>2018-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-17T16:55:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
